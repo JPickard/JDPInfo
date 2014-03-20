@@ -5,8 +5,7 @@ body {
 }
 
 a {
-	color: #39F;
-	text-decoration: none;
+	color: #3c3;
 }
 
 a:hover {
@@ -34,6 +33,10 @@ h3 {
 
 p {
 	font-size: 1.25em;
+}
+
+p a {
+	color: #f30;
 }
 
 .container {
